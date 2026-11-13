@@ -2,10 +2,10 @@
 # DMG (version, build, SHA-256) and pushed to the tap repository as Casks/kitestring.rb.
 #   brew install --cask lijunhua941-boop/kitestring/kitestring
 cask "kitestring" do
-  version "0.16.4,11"
-  sha256 "b6042ca66d5105fc09baa83e55097436bca79e20a1ab99c9b3144cd91e4485df"
+  version "0.16.5,13"
+  sha256 "8994a8198ee5d6fa79c080dbc9d979ffb77ad617ba256da72d951a2913b7db97"
 
-  url "https://github.com/lijunhua941-boop/kitestring-site/releases/download/mac-0.16.4-11/Kitestring-0.16.4-11.dmg"
+  url "https://github.com/lijunhua941-boop/kitestring-site/releases/download/mac-0.16.5-13/Kitestring-0.16.5-13.dmg"
   name "Kitestring for Mac"
   desc "Run Claude Code and Codex on your Mac from your iPhone over Tailscale"
   homepage "https://lijunhua941-boop.github.io/kitestring-site/"
