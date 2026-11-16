@@ -6,7 +6,7 @@ On Homebrew versions that require explicit trust, review Casks/kitestring.rb fir
 
     brew trust --cask lijunhua941-boop/kitestring/kitestring
 
-Current cask: Kitestring for Mac 0.16.5 (build 13), SHA-256 `8994a8198ee5d6fa79c080dbc9d979ffb77ad617ba256da72d951a2913b7db97`.
+Current cask: Kitestring for Mac 0.16.5 (build 14), SHA-256 `0384cc5b7cb38cb1dbc7b3f37a654056b44c544d0375dc33827977817cb2221e`.
 Download page: https://lijunhua941-boop.github.io/kitestring-site/download/ · Release feed: https://lijunhua941-boop.github.io/kitestring-site/download/latest.json
 Let a coding agent install and configure everything: https://lijunhua941-boop.github.io/kitestring-site/agent-install.md
 Setup help: https://lijunhua941-boop.github.io/kitestring-site/support/#en-setup
@@ -15,5 +15,5 @@ Setup help: https://lijunhua941-boop.github.io/kitestring-site/support/#en-setup
 
     brew install --cask lijunhua941-boop/kitestring/kitestring
 
-Instala Kitestring for Mac 0.16.5 (compilación 13). La app instala el asistente al abrirla por primera vez.
+Instala Kitestring for Mac 0.16.5 (compilación 14). La app instala el asistente al abrirla por primera vez.
 Página de descarga: https://lijunhua941-boop.github.io/kitestring-site/download/#es · Ayuda con la configuración: https://lijunhua941-boop.github.io/kitestring-site/support/#es-setup
